@@ -5,4 +5,4 @@ Project file is main file contains implementation of SimHash
  
 # Note  
 
-Open Hash Branch for extensive Hashing implementations
+Open "Hashing" Branch for extensive Hashing implementations
