@@ -1,2 +1,3 @@
 # Hashing-For-Similarity-Search
-In progress
+Pagerank file runs low level version of search algorithm
+
